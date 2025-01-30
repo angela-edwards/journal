@@ -131,7 +131,7 @@ def mental_health():
     print("\nif you've had a bad day today, i promise that things will get better.\njust keep on going and don't give up! <3")
 
 def motivation():
-    print()
+    print('coming soon!')
 
 def previous_entries():
     if not verify_passcode():
